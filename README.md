@@ -1,5 +1,5 @@
 <h1 align="center"> Bike-sharing-demand-prediction </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -27,6 +27,15 @@ flask_file = app.py
 html_file = templates-index.html
 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ ## App Deployment
+ 
+![Screenshot (1270)](https://user-images.githubusercontent.com/85070726/185971278-66dcc614-e6f9-4a16-b211-55d23ab19b49.png)
+ 
+ 
+![Screenshot (1269)](https://user-images.githubusercontent.com/85070726/185971000-a878d2c1-32b7-48b1-9fcf-bcb191b68c9c.png)
+ 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
 ## Linear Regression
